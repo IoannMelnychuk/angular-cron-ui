@@ -8,10 +8,12 @@
   "description": "UI Component For Creating Cron Job Syntax To Send To Server",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jacobscarter/angular-cron-jobs.git"
+    "url": "git://github.com/IoannMelnychuk/angular-cron-ui.git"
   },
   "dependencies": {
-    "angular": "1.5.8",
+    "angular": "1.5.8"
+  },
+  "devDependencies": {
     "angular-mocks": "1.5.8"
   },
   "ignore": [
